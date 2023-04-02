@@ -44,9 +44,8 @@ a:active,a:hover,a:link,a:visited {
 }
 
 .member-wrap {
-    top: 0px;
-    padding-top: 0px;
-    padding: 0 100px 0 100px;
+   text-align: center;
+   padding-left: 180px;
 }
 
 .misList{
@@ -145,6 +144,17 @@ element.style {
     padding-top: 80px;
     margin-top: 40px;
 }
+.col-xs-4{
+    width: 400px;
+}
+
+.col-md-10{
+    width: 100%;
+}
+#rowitem{
+    margin-left: 100px;
+}
+
 
 
 
@@ -174,6 +184,7 @@ body, html { font-size: 100%; 	padding: 0; margin: 0;}
 }
 
 
+
 body{
     background: #f9f7f6;
     color: #404d5b;
@@ -184,5 +195,6 @@ body{
 a{color: #2fa0ec;text-decoration: none;outline: none;}
 a:hover,a:focus{color:#74777b;}
 .mp30{margin-top: 30px;}
+
 
 .center{text-align: center;}
